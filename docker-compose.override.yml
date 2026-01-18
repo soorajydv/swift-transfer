@@ -1,0 +1,32 @@
+services:
+  # Backend Application (Development mode with volume mounting)
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: swift-transfer-backend-dev
+    depends_on:
+      mssql:
+        condition: service_started
+      redis:
+        condition: service_healthy
+      kafka:
+        condition: service_healthy
+    ports:
+      - "3000:3000"
+    env_file:
+      - ./backend/.env.docker
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+    networks:
+      - swift-transfer
+    restart: unless-stopped
+    environment:
+      NODE_ENV: development
+    command: yarn dev
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3

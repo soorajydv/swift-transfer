@@ -1,0 +1,117 @@
+generator client {
+  provider = "prisma-client-js"
+  binaryTargets = ["native", "linux-musl-openssl-3.0.x"]
+}
+
+datasource db {
+  provider = "sqlserver"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        String   @id @default(uuid()) @map("id")
+  email     String   @unique @map("email")
+  fullName  String   @map("full_name")
+  password  String?  @map("password")
+  role      String   @default("VIEWER") @map("role")
+  status    String   @default("ACTIVE") @map("status")
+  lastLoginAt DateTime? @map("last_login_at")
+  createdBy String?  @map("created_by")
+  updatedBy String?  @map("updated_by")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  // Relations
+  createdUsers User[] @relation("UserCreatedBy")
+  updatedUsers User[] @relation("UserUpdatedBy")
+  creator      User?  @relation("UserCreatedBy", fields: [createdBy], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  updater      User?  @relation("UserUpdatedBy", fields: [updatedBy], references: [id], onDelete: NoAction, onUpdate: NoAction)
+
+  // New relations for money transfer
+  senders     Sender[]
+  transactions Transaction[]
+
+  @@map("users")
+}
+
+model Sender {
+  id            String   @id @default(uuid()) @map("id")
+  userId        String   @map("user_id")
+  fullName      String   @map("full_name")
+  email         String   @unique @map("email")
+  phone         String   @map("phone")
+  address       String   @map("address")
+  city          String   @map("city")
+  country       String   @map("country")
+  identityType  String   @map("identity_type") // 'passport' | 'residence_card' | 'drivers_license'
+  identityNumber String  @unique @map("identity_number")
+  status        String   @default("pending_verification") @map("status") // 'active' | 'inactive' | 'pending_verification'
+  createdBy     String?  @map("created_by")
+  updatedBy     String?  @map("updated_by")
+  createdAt     DateTime @default(now()) @map("created_at")
+  updatedAt     DateTime @updatedAt @map("updated_at")
+
+  // Relations
+  user          User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  receivers     Receiver[]
+  transactions  Transaction[]
+
+  @@map("senders")
+}
+
+model Receiver {
+  id            String   @id @default(uuid()) @map("id")
+  senderId      String   @map("sender_id")
+  fullName      String   @map("full_name")
+  email         String?  @map("email")
+  phone         String   @map("phone")
+  address       String   @map("address")
+  city          String   @map("city")
+  country       String   @map("country")
+  relationship  String   @map("relationship") // 'family' | 'friend' | 'business' | 'other'
+  bankName      String   @map("bank_name")
+  bankBranch    String   @map("bank_branch")
+  accountNumber String   @map("account_number")
+  status        String   @default("active") @map("status") // 'active' | 'inactive'
+  createdBy     String?  @map("created_by")
+  updatedBy     String?  @map("updated_by")
+  createdAt     DateTime @default(now()) @map("created_at")
+  updatedAt     DateTime @updatedAt @map("updated_at")
+
+  // Relations
+  sender        Sender     @relation(fields: [senderId], references: [id], onDelete: Cascade)
+  transactions  Transaction[]
+
+  @@map("receivers")
+}
+
+model Transaction {
+  id                String   @id @default(uuid()) @map("id")
+  transactionId     String   @unique @map("transaction_id") // Custom transaction ID
+  userId            String   @map("user_id")
+  senderId          String   @map("sender_id")
+  receiverId        String   @map("receiver_id")
+  amountJPY         Float    @map("amount_jpy")
+  amountNPR         Float    @map("amount_npr")
+  serviceFee        Float    @map("service_fee")
+  exchangeRate      Float    @map("exchange_rate")
+  totalAmountJPY    Float    @map("total_amount_jpy")
+  status            String   @default("pending") @map("status") // 'pending' | 'processing' | 'completed' | 'failed' | 'cancelled'
+  purpose           String   @map("purpose")
+  notes             String?  @map("notes")
+  processedAt       DateTime? @map("processed_at")
+  completedAt       DateTime? @map("completed_at")
+  cancelledAt       DateTime? @map("cancelled_at")
+  cancelledReason   String?  @map("cancelled_reason")
+  createdBy         String?  @map("created_by")
+  updatedBy         String?  @map("updated_by")
+  createdAt         DateTime @default(now()) @map("created_at")
+  updatedAt         DateTime @updatedAt @map("updated_at")
+
+  // Relations
+  user              User     @relation(fields: [userId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  sender            Sender   @relation(fields: [senderId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  receiver          Receiver @relation(fields: [receiverId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@map("transactions")
+}

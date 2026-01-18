@@ -1,0 +1,3 @@
+2026-01-18 20:29:44:2944 [31merror[39m: [31mError occurred: body.fullName: Required[39m
+2026-01-18 20:30:00:300 [31merror[39m: [31mError occurred: body.role: Role must be admin, operator, or viewer[39m
+2026-01-18 22:42:50:4250 [31merror[39m: [31mUncaught Exception: listen EADDRINUSE: address already in use :::3000[39m

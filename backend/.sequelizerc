@@ -1,0 +1,6 @@
+export default {
+  'config': 'src/config/database.ts',
+  'models-path': 'src/modules',
+  'seeders-path': 'src/seeders',
+  'migrations-path': 'src/migrations'
+};

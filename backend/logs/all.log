@@ -1,0 +1,1736 @@
+2026-01-18 18:23:14:2314 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 18:23:15:2315 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 18:23:15:2315 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 18:23:15:2315 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 18:23:15:2315 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 18:23:15:2315 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 18:23:15:2315 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 18:23:15:2315 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 18:23:15:2315 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 18:23:58:2358 [32minfo[39m: [32mReceived SIGINT. Starting graceful shutdown...[39m
+2026-01-18 18:23:58:2358 [32minfo[39m: [32mHTTP server closed[39m
+2026-01-18 18:23:58:2358 [32minfo[39m: [32mDatabase disconnected successfully[39m
+2026-01-18 20:21:43:2143 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:21:44:2144 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:21:44:2144 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:21:44:2144 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:21:44:2144 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:21:44:2144 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:21:44:2144 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:21:44:2144 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:21:44:2144 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:22:30:2230 [32minfo[39m: [32mReceived SIGINT. Starting graceful shutdown...[39m
+2026-01-18 20:22:30:2230 [32minfo[39m: [32mHTTP server closed[39m
+2026-01-18 20:22:30:2230 [32minfo[39m: [32mDatabase disconnected successfully[39m
+2026-01-18 20:22:34:2234 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:22:34:2234 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:22:34:2234 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:22:34:2234 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:22:34:2234 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:22:34:2234 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:22:34:2234 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:22:34:2234 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:22:34:2234 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:24:53:2453 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:24:53:2453 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:24:53:2453 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:24:53:2453 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:24:53:2453 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:24:53:2453 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:24:53:2453 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:24:53:2453 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:24:53:2453 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:25:08:258 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:25:08:258 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:25:08:258 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:25:08:258 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:25:08:258 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:25:08:258 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:25:08:258 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:25:08:258 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:25:08:258 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:25:13:2513 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:25:13:2513 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:25:13:2513 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:25:13:2513 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:25:13:2513 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:25:13:2513 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:25:13:2513 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:25:13:2513 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:25:13:2513 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:25:15:2515 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:25:15:2515 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:25:15:2515 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:25:15:2515 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:25:15:2515 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:25:15:2515 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:25:15:2515 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:25:15:2515 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:25:15:2515 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:28:59:2859 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:28:59:2859 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:28:59:2859 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:28:59:2859 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:28:59:2859 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:28:59:2859 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:28:59:2859 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:28:59:2859 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:28:59:2859 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:29:04:294 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:29:04:294 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:29:04:294 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:29:04:294 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:29:04:294 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:29:04:294 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:29:04:294 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:29:04:294 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:29:04:294 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:29:08:298 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:29:08:298 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:29:08:298 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:29:08:298 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:29:08:298 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:29:08:298 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:29:08:298 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:29:08:298 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:29:08:298 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:29:44:2944 [31merror[39m: [31mError occurred: body.fullName: Required[39m
+2026-01-18 20:30:00:300 [31merror[39m: [31mError occurred: body.role: Role must be admin, operator, or viewer[39m
+2026-01-18 20:34:37:3437 [32minfo[39m: [32mReceived SIGINT. Starting graceful shutdown...[39m
+2026-01-18 20:34:37:3437 [32minfo[39m: [32mHTTP server closed[39m
+2026-01-18 20:34:37:3437 [32minfo[39m: [32mDatabase disconnected successfully[39m
+2026-01-18 20:43:15:4315 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:43:15:4315 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:43:15:4315 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:43:15:4315 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:43:15:4315 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:43:15:4315 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:43:15:4315 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:43:15:4315 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:43:15:4315 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:44:18:4418 [32minfo[39m: [32mEmail sent successfully to soorajydv9@gmail.com: <26b564d5-9678-ee5b-2cb6-2d5e3cf5ca25@gmail.com>[39m
+2026-01-18 20:44:18:4418 [32minfo[39m: [32mOTP generated for soorajydv9@gmail.com: 126022[39m
+2026-01-18 20:46:29:4629 [32minfo[39m: [32mEmail sent successfully to soorajydv9@gmail.com: <634ec464-d57e-d373-a29c-3e4668b4e745@gmail.com>[39m
+2026-01-18 20:46:29:4629 [32minfo[39m: [32mOTP generated for soorajydv9@gmail.com: 758521[39m
+2026-01-18 20:47:10:4710 [32minfo[39m: [32mUser logged in: soorajydv9@gmail.com[39m
+2026-01-18 20:47:55:4755 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:47:55:4755 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:47:55:4755 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:47:55:4755 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:47:55:4755 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:47:55:4755 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:47:55:4755 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:47:55:4755 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:47:55:4755 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:48:00:480 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:48:00:480 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:48:00:480 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:48:00:480 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:48:00:480 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:48:00:480 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:48:00:480 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:48:00:480 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:48:00:480 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:48:02:482 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:48:02:482 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:48:02:482 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:48:02:482 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:48:02:482 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:48:02:482 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:48:02:482 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:48:02:482 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:48:02:482 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:48:07:487 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:48:07:487 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:48:08:488 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:48:08:488 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:48:08:488 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:48:08:488 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:48:08:488 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:48:08:488 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:48:08:488 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:48:11:4811 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:48:11:4811 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:48:11:4811 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:48:11:4811 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:48:11:4811 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:48:11:4811 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:48:11:4811 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:48:11:4811 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:48:11:4811 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:48:13:4813 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:48:14:4814 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:48:14:4814 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:48:14:4814 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:48:14:4814 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:48:14:4814 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:48:14:4814 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:48:14:4814 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:48:14:4814 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:48:15:4815 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:48:16:4816 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:48:16:4816 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:48:16:4816 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:48:16:4816 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:48:16:4816 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:48:16:4816 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:48:16:4816 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:48:16:4816 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:49:02:492 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:49:02:492 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:49:02:492 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:49:02:492 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:49:02:492 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:49:02:492 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:49:02:492 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:49:02:492 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:49:02:492 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:49:08:498 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:49:08:498 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:49:08:498 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:49:08:498 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:49:08:498 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:49:08:498 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:49:08:498 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:49:08:498 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:49:08:498 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:51:10:5110 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:51:10:5110 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:51:10:5110 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:51:10:5110 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:51:10:5110 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:51:10:5110 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:51:10:5110 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:51:10:5110 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:51:10:5110 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 20:51:23:5123 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 20:51:23:5123 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 20:51:23:5123 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 20:51:23:5123 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 20:51:23:5123 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 20:51:23:5123 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 20:51:23:5123 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 20:51:23:5123 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 20:51:23:5123 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:18:47:1847 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:18:48:1848 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:18:48:1848 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:18:48:1848 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:18:48:1848 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:18:48:1848 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:18:48:1848 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:18:48:1848 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:18:48:1848 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:26:00:260 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:26:00:260 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:26:00:260 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:26:00:260 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:26:00:260 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:26:00:260 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:26:00:260 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:26:00:260 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:26:00:260 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:26:07:267 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:26:08:268 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:26:08:268 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:26:08:268 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:26:08:268 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:26:08:268 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:26:08:268 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:26:08:268 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:26:08:268 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:26:15:2615 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:26:15:2615 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:26:15:2615 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:26:15:2615 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:26:15:2615 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:26:15:2615 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:26:15:2615 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:26:15:2615 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:26:15:2615 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:33:28:3328 [32minfo[39m: [32mEmail sent successfully to soorajydv9@gmail.com: <378ccea5-9e7c-9776-7698-9d5d7a9536e5@gmail.com>[39m
+2026-01-18 21:33:28:3328 [32minfo[39m: [32mOTP generated for soorajydv9@gmail.com: 577446[39m
+2026-01-18 21:33:47:3347 [32minfo[39m: [32mUser logged in: soorajydv9@gmail.com[39m
+2026-01-18 21:37:11:3711 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:37:11:3711 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:37:11:3711 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:37:11:3711 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:37:11:3711 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:37:11:3711 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:37:11:3711 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:37:11:3711 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:37:11:3711 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:37:13:3713 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:37:13:3713 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:37:13:3713 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:37:13:3713 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:37:13:3713 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:37:13:3713 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:37:13:3713 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:37:13:3713 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:37:13:3713 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:37:28:3728 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:37:28:3728 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:37:28:3728 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:37:28:3728 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:37:28:3728 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:37:28:3728 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:37:28:3728 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:37:28:3728 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:37:28:3728 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:37:31:3731 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:37:31:3731 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:37:31:3731 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:37:31:3731 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:37:31:3731 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:37:31:3731 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:37:31:3731 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:37:31:3731 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:37:31:3731 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:37:37:3737 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:37:37:3737 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:37:37:3737 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:37:37:3737 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:37:37:3737 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:37:37:3737 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:37:37:3737 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:37:37:3737 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:37:37:3737 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:38:36:3836 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:38:37:3837 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:38:37:3837 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:38:37:3837 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:38:37:3837 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:38:37:3837 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:38:37:3837 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:38:37:3837 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:38:37:3837 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:38:54:3854 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:38:54:3854 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:38:54:3854 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:38:54:3854 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:38:54:3854 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:38:54:3854 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:38:54:3854 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:38:54:3854 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:38:54:3854 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:39:10:3910 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:39:10:3910 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:39:10:3910 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:39:10:3910 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:39:10:3910 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:39:10:3910 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:39:10:3910 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:39:10:3910 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:39:10:3910 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:39:12:3912 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:39:12:3912 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:39:12:3912 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:39:12:3912 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:39:12:3912 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:39:12:3912 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:39:12:3912 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:39:12:3912 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:39:12:3912 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:39:22:3922 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:39:23:3923 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:39:23:3923 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:39:23:3923 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:39:23:3923 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:39:23:3923 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:39:23:3923 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:39:23:3923 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:39:23:3923 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:39:29:3929 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:39:29:3929 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:39:29:3929 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:39:29:3929 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:39:29:3929 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:39:29:3929 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:39:29:3929 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:39:29:3929 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:39:29:3929 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:39:47:3947 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:39:47:3947 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:39:47:3947 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:39:47:3947 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:39:47:3947 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:39:47:3947 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:39:47:3947 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:39:47:3947 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:39:47:3947 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:39:52:3952 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:39:52:3952 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:39:52:3952 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:39:52:3952 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:39:52:3952 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:39:52:3952 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:39:52:3952 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:39:52:3952 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:39:52:3952 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:40:09:409 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:40:09:409 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:40:09:409 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:40:09:409 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:40:09:409 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:40:09:409 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:40:09:409 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:40:09:409 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:40:09:409 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:40:32:4032 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:40:32:4032 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:40:32:4032 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:40:32:4032 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:40:32:4032 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:40:32:4032 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:40:32:4032 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:40:32:4032 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:40:32:4032 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:40:39:4039 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:40:39:4039 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:40:39:4039 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:40:39:4039 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:40:39:4039 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:40:39:4039 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:40:39:4039 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:40:39:4039 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:40:39:4039 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:40:57:4057 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:40:57:4057 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:40:57:4057 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:40:57:4057 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:40:57:4057 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:40:57:4057 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:40:57:4057 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:40:57:4057 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:40:57:4057 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:43:05:435 [32minfo[39m: [32mEmail sent successfully to soorajydv9@gmail.com: <941fe72c-6d70-10fd-b488-c1d44b119be2@gmail.com>[39m
+2026-01-18 21:43:05:435 [32minfo[39m: [32mOTP generated for soorajydv9@gmail.com: 883719[39m
+2026-01-18 21:43:23:4323 [32minfo[39m: [32mUser logged in: soorajydv9@gmail.com[39m
+2026-01-18 21:44:59:4459 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:44:59:4459 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:44:59:4459 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:44:59:4459 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:44:59:4459 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:44:59:4459 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:44:59:4459 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:44:59:4459 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:44:59:4459 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:45:01:451 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:45:02:452 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:45:02:452 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:45:02:452 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:45:02:452 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:45:02:452 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:45:02:452 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:45:02:452 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:45:02:452 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:46:19:4619 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:46:19:4619 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:46:19:4619 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:46:19:4619 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:46:19:4619 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:46:19:4619 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:46:19:4619 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:46:19:4619 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:46:19:4619 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:46:22:4622 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:46:22:4622 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:46:22:4622 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:46:22:4622 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:46:22:4622 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:46:22:4622 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:46:22:4622 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:46:22:4622 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:46:22:4622 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:46:28:4628 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:46:28:4628 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:46:28:4628 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:46:28:4628 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:46:28:4628 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:46:28:4628 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:46:28:4628 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:46:28:4628 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:46:28:4628 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:46:36:4636 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:46:36:4636 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:46:36:4636 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:46:36:4636 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:46:36:4636 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:46:36:4636 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:46:36:4636 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:46:36:4636 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:46:36:4636 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:46:51:4651 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:46:52:4652 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:46:52:4652 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:46:52:4652 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:46:52:4652 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:46:52:4652 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:46:52:4652 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:46:52:4652 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:46:52:4652 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:47:11:4711 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:47:11:4711 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:47:11:4711 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:47:11:4711 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:47:11:4711 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:47:11:4711 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:47:11:4711 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:47:11:4711 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:47:11:4711 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:47:19:4719 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:47:19:4719 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:47:19:4719 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:47:19:4719 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:47:19:4719 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:47:19:4719 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:47:19:4719 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:47:19:4719 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:47:19:4719 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:47:26:4726 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:47:26:4726 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:47:26:4726 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:47:26:4726 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:47:26:4726 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:47:26:4726 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:47:26:4726 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:47:26:4726 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:47:26:4726 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:47:31:4731 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:47:31:4731 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:47:31:4731 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:47:31:4731 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:47:31:4731 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:47:31:4731 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:47:31:4731 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:47:31:4731 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:47:31:4731 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:47:50:4750 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:47:50:4750 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:47:50:4750 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:47:50:4750 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:47:50:4750 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:47:50:4750 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:47:50:4750 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:47:50:4750 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:47:50:4750 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:47:59:4759 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:47:59:4759 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:47:59:4759 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:47:59:4759 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:47:59:4759 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:47:59:4759 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:47:59:4759 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:47:59:4759 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:47:59:4759 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:48:31:4831 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:48:31:4831 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:48:31:4831 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:48:31:4831 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:48:31:4831 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:48:32:4832 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:48:32:4832 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:48:32:4832 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:48:32:4832 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:49:37:4937 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:49:38:4938 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:49:38:4938 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:49:38:4938 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:49:38:4938 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:49:38:4938 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:49:38:4938 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:49:38:4938 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:49:38:4938 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:50:03:503 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:50:03:503 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:50:03:503 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:50:03:503 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:50:03:503 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:50:03:503 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:50:03:503 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:50:03:503 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:50:03:503 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:50:07:507 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:50:07:507 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:50:07:507 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:50:07:507 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:50:07:507 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:50:07:507 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:50:07:507 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:50:07:507 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:50:07:507 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:50:20:5020 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:50:20:5020 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:50:20:5020 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:50:20:5020 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:50:20:5020 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:50:20:5020 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:50:20:5020 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:50:20:5020 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:50:20:5020 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:50:24:5024 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:50:25:5025 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:50:25:5025 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:50:25:5025 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:50:25:5025 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:50:25:5025 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:50:25:5025 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:50:25:5025 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:50:25:5025 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:50:30:5030 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:50:30:5030 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:50:30:5030 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:50:30:5030 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:50:30:5030 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:50:30:5030 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:50:30:5030 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:50:30:5030 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:50:30:5030 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:50:51:5051 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:50:51:5051 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:50:51:5051 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:50:51:5051 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:50:51:5051 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:50:51:5051 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:50:51:5051 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:50:51:5051 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:50:51:5051 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:51:12:5112 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:51:12:5112 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:51:12:5112 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:51:12:5112 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:51:12:5112 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:51:12:5112 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:51:12:5112 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:51:12:5112 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:51:12:5112 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:51:34:5134 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:51:34:5134 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:51:34:5134 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:51:34:5134 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:51:34:5134 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:51:34:5134 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:51:34:5134 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:51:34:5134 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:51:34:5134 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:51:36:5136 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:51:37:5137 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:51:37:5137 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:51:37:5137 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:51:37:5137 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:51:37:5137 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:51:37:5137 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:51:37:5137 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:51:37:5137 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:51:47:5147 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:51:47:5147 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:51:47:5147 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:51:47:5147 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:51:47:5147 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:51:47:5147 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:51:47:5147 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:51:47:5147 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:51:47:5147 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:52:06:526 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:52:07:527 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:52:07:527 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:52:07:527 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:52:07:527 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:52:07:527 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:52:07:527 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:52:07:527 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:52:07:527 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:52:14:5214 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 21:52:14:5214 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 21:52:14:5214 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 21:52:14:5214 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 21:52:14:5214 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 21:52:14:5214 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 21:52:14:5214 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 21:52:14:5214 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 21:52:14:5214 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 21:53:28:5328 [32minfo[39m: [32mEmail sent successfully to soorajydv9@gmail.com: <0173626d-07aa-45ec-082c-108b32a6d234@gmail.com>[39m
+2026-01-18 21:53:28:5328 [32minfo[39m: [32mOTP generated for soorajydv9@gmail.com: 888493[39m
+2026-01-18 21:53:39:5339 [32minfo[39m: [32mUser logged in: soorajydv9@gmail.com[39m
+2026-01-18 21:54:28:5428 [32minfo[39m: [32mEmail sent successfully to soorajydv9@gmail.com: <a0bdb341-2837-6f44-55aa-333835e994be@gmail.com>[39m
+2026-01-18 21:54:28:5428 [32minfo[39m: [32mOTP generated for soorajydv9@gmail.com: 199037[39m
+2026-01-18 21:54:40:5440 [32minfo[39m: [32mUser logged in: soorajydv9@gmail.com[39m
+2026-01-18 21:58:48:5848 [32minfo[39m: [32mEmail sent successfully to soorajydv9@gmail.com: <d18c6eb6-06f1-a95c-95e3-2704e494e5ae@gmail.com>[39m
+2026-01-18 21:58:48:5848 [32minfo[39m: [32mOTP generated for soorajydv9@gmail.com: 833483[39m
+2026-01-18 21:59:02:592 [32minfo[39m: [32mUser logged in: soorajydv9@gmail.com[39m
+2026-01-18 22:01:17:117 [32minfo[39m: [32mEmail sent successfully to soorajydv9@gmail.com: <d01dd713-5adf-fb44-bd13-679460e6e775@gmail.com>[39m
+2026-01-18 22:01:17:117 [32minfo[39m: [32mOTP generated for soorajydv9@gmail.com: 190587[39m
+2026-01-18 22:01:27:127 [32minfo[39m: [32mUser logged in: soorajydv9@gmail.com[39m
+2026-01-18 22:09:21:921 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:09:22:922 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:09:22:922 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:09:22:922 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:09:22:922 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:09:22:922 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:09:22:922 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 22:09:22:922 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 22:09:22:922 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 22:10:20:1020 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:10:20:1020 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:10:20:1020 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:10:20:1020 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:10:20:1020 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:10:20:1020 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:10:20:1020 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 22:10:20:1020 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 22:10:20:1020 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 22:10:38:1038 [32minfo[39m: [32mEmail sent successfully to soorajydv9@gmail.com: <5d9b194a-8afa-120f-74ac-d033f99719c6@gmail.com>[39m
+2026-01-18 22:10:38:1038 [32minfo[39m: [32mOTP generated for soorajydv9@gmail.com: 336492[39m
+2026-01-18 22:10:53:1053 [32minfo[39m: [32mUser logged in: soorajydv9@gmail.com[39m
+2026-01-18 22:31:51:3151 [32minfo[39m: [32mReceived SIGINT. Starting graceful shutdown...[39m
+2026-01-18 22:31:51:3151 [32minfo[39m: [32mHTTP server closed[39m
+2026-01-18 22:31:51:3151 [32minfo[39m: [32mDatabase disconnected successfully[39m
+2026-01-18 22:31:59:3159 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:31:59:3159 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:31:59:3159 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:31:59:3159 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:31:59:3159 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:31:59:3159 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:31:59:3159 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 22:31:59:3159 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 22:31:59:3159 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 22:41:20:4120 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:41:20:4120 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:41:20:4120 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:41:20:4120 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:41:20:4120 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:41:20:4120 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:41:20:4120 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 22:41:20:4120 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 22:41:20:4120 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 22:41:38:4138 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:41:38:4138 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:41:38:4138 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:41:38:4138 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:41:38:4138 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:41:38:4138 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:41:38:4138 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 22:41:38:4138 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 22:41:38:4138 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 22:41:49:4149 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:41:49:4149 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:41:49:4149 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:41:49:4149 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:41:49:4149 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:41:49:4149 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:41:49:4149 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 22:41:49:4149 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 22:41:49:4149 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 22:41:51:4151 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:41:51:4151 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:41:51:4151 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:41:51:4151 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:41:51:4151 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:41:51:4151 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:41:51:4151 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 22:41:51:4151 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 22:41:51:4151 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 22:41:58:4158 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:41:58:4158 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:41:58:4158 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:41:58:4158 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:41:58:4158 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:41:58:4158 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:41:58:4158 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 22:41:58:4158 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 22:41:58:4158 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 22:41:59:4159 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:41:59:4159 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:41:59:4159 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:41:59:4159 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:41:59:4159 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:41:59:4159 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:41:59:4159 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 22:41:59:4159 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 22:41:59:4159 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 22:42:08:428 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:42:08:428 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:42:08:428 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:42:08:428 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:42:08:428 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:42:08:428 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:42:08:428 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 22:42:08:428 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 22:42:08:428 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 22:42:16:4216 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:42:16:4216 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:42:16:4216 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:42:16:4216 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:42:16:4216 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:42:16:4216 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:42:16:4216 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 22:42:16:4216 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:42:17:4217 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:42:20:4220 [32minfo[39m: [32mSubscribed to topic: transaction-events[39m
+2026-01-18 22:42:20:4220 [32minfo[39m: [32m✅ Transaction Consumer started successfully[39m
+2026-01-18 22:42:20:4220 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 22:42:20:4220 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 22:42:20:4220 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 22:42:25:4225 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:42:25:4225 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:42:25:4225 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:42:25:4225 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:42:25:4225 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:42:25:4225 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:42:25:4225 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 22:42:25:4225 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:42:25:4225 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:42:35:4235 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:42:35:4235 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:42:35:4235 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:42:35:4235 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:42:35:4235 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:42:35:4235 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:42:35:4235 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 22:42:35:4235 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:42:35:4235 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:42:41:4241 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:42:41:4241 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:42:41:4241 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:42:41:4241 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:42:41:4241 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:42:41:4241 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:42:41:4241 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 22:42:41:4241 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:42:41:4241 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:42:50:4250 [32minfo[39m: [32mSubscribed to topic: transaction-events[39m
+2026-01-18 22:42:50:4250 [32minfo[39m: [32mSubscribed to topic: transaction-events[39m
+2026-01-18 22:42:50:4250 [32minfo[39m: [32m✅ Transaction Consumer started successfully[39m
+2026-01-18 22:42:50:4250 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 22:42:50:4250 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 22:42:50:4250 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 22:43:57:4357 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:43:57:4357 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:43:57:4357 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:43:57:4357 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:43:57:4357 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:43:57:4357 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:43:57:4357 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 22:43:57:4357 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:43:57:4357 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:44:20:4420 [32minfo[39m: [32mSubscribed to topic: transaction-events[39m
+2026-01-18 22:44:20:4420 [32minfo[39m: [32m✅ Transaction Consumer started successfully[39m
+2026-01-18 22:44:20:4420 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 22:44:20:4420 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 22:44:20:4420 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 22:46:46:4646 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:46:47:4647 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:46:47:4647 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:46:47:4647 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:46:47:4647 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:46:47:4647 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:46:47:4647 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 22:46:47:4647 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:46:47:4647 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:46:50:4650 [32minfo[39m: [32mSubscribed to topic: transaction-events[39m
+2026-01-18 22:46:50:4650 [32minfo[39m: [32m✅ Transaction Consumer started successfully[39m
+2026-01-18 22:46:50:4650 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 22:46:50:4650 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 22:46:50:4650 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 22:47:01:471 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:47:01:471 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:47:01:471 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:47:01:471 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:47:01:471 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:47:01:471 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:47:01:471 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 22:47:01:471 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:47:01:471 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:47:03:473 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:47:04:474 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:47:04:474 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:47:04:474 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:47:04:474 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:47:04:474 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:47:04:474 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 22:47:04:474 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:47:04:474 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:47:09:479 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:47:09:479 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:47:09:479 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:47:09:479 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:47:09:479 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:47:09:479 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:47:09:479 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 22:47:09:479 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:47:09:479 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:47:25:4725 [32minfo[39m: [32mSubscribed to topic: transaction-events[39m
+2026-01-18 22:47:25:4725 [32minfo[39m: [32m✅ Transaction Consumer started successfully[39m
+2026-01-18 22:47:25:4725 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 22:47:25:4725 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 22:47:25:4725 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 22:54:38:5438 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:54:39:5439 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:54:39:5439 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:54:39:5439 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:54:39:5439 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:54:39:5439 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:54:39:5439 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 22:54:39:5439 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:54:39:5439 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:54:42:5442 [32minfo[39m: [32mSubscribed to topic: transaction-events[39m
+2026-01-18 22:54:42:5442 [32minfo[39m: [32m✅ Transaction Consumer started successfully[39m
+2026-01-18 22:54:42:5442 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 22:54:42:5442 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 22:54:42:5442 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 22:55:35:5535 [32minfo[39m: [32mEmail sent successfully to soorajydv9@gmail.com: <f97f4636-44a3-d6ee-5143-20e0f9ed323a@gmail.com>[39m
+2026-01-18 22:55:35:5535 [32minfo[39m: [32mOTP generated for soorajydv9@gmail.com: 234981[39m
+2026-01-18 22:55:45:5545 [32minfo[39m: [32mUser logged in: soorajydv9@gmail.com[39m
+2026-01-18 22:58:11:5811 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 22:58:11:5811 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 22:58:11:5811 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 22:58:11:5811 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 22:58:11:5811 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 22:58:11:5811 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 22:58:11:5811 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 22:58:11:5811 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 22:58:11:5811 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:05:15:515 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:05:15:515 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:05:15:515 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:05:15:515 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:05:15:515 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:05:15:515 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:05:15:515 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:05:15:515 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:05:15:515 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:05:18:518 [32minfo[39m: [32mSubscribed to topic: transaction-events[39m
+2026-01-18 23:05:18:518 [32minfo[39m: [32m✅ Transaction Consumer started successfully[39m
+2026-01-18 23:05:18:518 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 23:05:18:518 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 23:05:18:518 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 23:12:55:1255 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:12:56:1256 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:12:56:1256 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:12:56:1256 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:12:56:1256 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:12:56:1256 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:12:56:1256 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:12:56:1256 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:12:56:1256 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:13:09:139 [32minfo[39m: [32mSubscribed to topic: transaction-events[39m
+2026-01-18 23:13:09:139 [32minfo[39m: [32m✅ Transaction Consumer started successfully[39m
+2026-01-18 23:13:09:139 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 23:13:09:139 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 23:13:09:139 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 23:17:39:1739 [37mdebug[39m: [37mMessage published to topic transaction-events:[39m
+2026-01-18 23:17:39:1739 [37mdebug[39m: [37mReceived message from topic transaction-events:[39m
+2026-01-18 23:17:39:1739 [32minfo[39m: [32m📨 Processing transaction event: TRANSACTION_CREATED[39m
+2026-01-18 23:17:39:1739 [32minfo[39m: [32m💰 Transaction created event processed[39m
+2026-01-18 23:17:39:1739 [32minfo[39m: [32m✅ Successfully processed transaction event: TRANSACTION_CREATED[39m
+2026-01-18 23:26:30:2630 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:26:30:2630 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:26:30:2630 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:26:30:2630 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:26:30:2630 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:26:30:2630 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:26:30:2630 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:26:30:2630 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:26:30:2630 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:26:41:2641 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:26:41:2641 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:26:41:2641 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:26:41:2641 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:26:41:2641 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:26:41:2641 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:26:41:2641 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:26:41:2641 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:26:41:2641 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:26:55:2655 [32minfo[39m: [32mSubscribed to topic: transaction-events[39m
+2026-01-18 23:26:55:2655 [32minfo[39m: [32m✅ Transaction Consumer started successfully[39m
+2026-01-18 23:26:55:2655 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 23:26:55:2655 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 23:26:55:2655 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 23:26:59:2659 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:26:59:2659 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:26:59:2659 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:26:59:2659 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:26:59:2659 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:26:59:2659 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:26:59:2659 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:26:59:2659 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:26:59:2659 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:27:09:279 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:27:10:2710 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:27:10:2710 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:27:10:2710 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:27:10:2710 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:27:10:2710 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:27:10:2710 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:27:10:2710 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:27:10:2710 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:27:25:2725 [32minfo[39m: [32mSubscribed to topic: transaction-events[39m
+2026-01-18 23:27:25:2725 [32minfo[39m: [32m✅ Transaction Consumer started successfully[39m
+2026-01-18 23:27:25:2725 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 23:27:25:2725 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 23:27:25:2725 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 23:27:35:2735 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:27:35:2735 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:27:35:2735 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:27:35:2735 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:27:35:2735 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:27:35:2735 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:27:35:2735 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:27:35:2735 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:27:35:2735 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:28:00:280 [32minfo[39m: [32mSubscribed to topic: transaction-events[39m
+2026-01-18 23:28:00:280 [32minfo[39m: [32m✅ Transaction Consumer started successfully[39m
+2026-01-18 23:28:00:280 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 23:28:00:280 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 23:28:00:280 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 23:30:09:309 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:30:09:309 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:30:09:309 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:30:09:309 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:30:09:309 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:30:09:309 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:30:09:309 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:30:09:309 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:30:09:309 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:30:22:3022 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:30:22:3022 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:30:22:3022 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:30:22:3022 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:30:22:3022 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:30:22:3022 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:30:22:3022 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:30:22:3022 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:30:22:3022 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:30:24:3024 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:30:24:3024 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:30:24:3024 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:30:24:3024 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:30:24:3024 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:30:24:3024 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:30:24:3024 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:30:24:3024 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:30:24:3024 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:30:31:3031 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:30:31:3031 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:30:31:3031 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:30:31:3031 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:30:31:3031 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:30:31:3031 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:30:31:3031 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:30:31:3031 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:30:31:3031 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:30:34:3034 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:30:34:3034 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:30:34:3034 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:30:34:3034 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:30:34:3034 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:30:34:3034 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:30:34:3034 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:30:34:3034 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:30:34:3034 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:30:37:3037 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:30:37:3037 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:30:37:3037 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:30:37:3037 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:30:37:3037 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:30:37:3037 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:30:37:3037 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:30:37:3037 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:30:37:3037 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:30:39:3039 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:30:40:3040 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:30:40:3040 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:30:40:3040 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:30:40:3040 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:30:40:3040 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:30:40:3040 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:30:40:3040 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:30:40:3040 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:30:43:3043 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:30:44:3044 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:30:44:3044 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:30:44:3044 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:30:44:3044 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:30:44:3044 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:30:44:3044 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:30:44:3044 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:30:44:3044 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:30:46:3046 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:30:46:3046 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:30:46:3046 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:30:46:3046 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:30:46:3046 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:30:46:3046 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:30:46:3046 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:30:46:3046 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:30:46:3046 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:07:317 [32minfo[39m: [32mSubscribed to topic: transaction-events[39m
+2026-01-18 23:31:07:317 [32minfo[39m: [32m✅ Transaction Consumer started successfully[39m
+2026-01-18 23:31:07:317 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 23:31:07:317 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 23:31:07:317 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 23:31:12:3112 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:31:12:3112 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:31:12:3112 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:31:12:3112 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:31:12:3112 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:31:12:3112 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:31:12:3112 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:31:12:3112 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:12:3112 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:14:3114 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:31:14:3114 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:31:14:3114 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:31:14:3114 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:31:14:3114 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:31:14:3114 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:31:14:3114 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:31:14:3114 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:14:3114 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:19:3119 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:31:19:3119 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:31:19:3119 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:31:19:3119 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:31:19:3119 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:31:19:3119 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:31:19:3119 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:31:19:3119 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:19:3119 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:27:3127 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:31:27:3127 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:31:27:3127 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:31:27:3127 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:31:27:3127 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:31:27:3127 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:31:27:3127 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:31:27:3127 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:27:3127 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:29:3129 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:31:29:3129 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:31:29:3129 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:31:29:3129 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:31:29:3129 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:31:29:3129 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:31:29:3129 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:31:29:3129 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:29:3129 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:32:3132 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:31:32:3132 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:31:32:3132 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:31:32:3132 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:31:32:3132 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:31:32:3132 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:31:32:3132 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:31:32:3132 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:32:3132 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:37:3137 [32minfo[39m: [32mSubscribed to topic: transaction-events[39m
+2026-01-18 23:31:37:3137 [32minfo[39m: [32m✅ Transaction Consumer started successfully[39m
+2026-01-18 23:31:37:3137 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 23:31:37:3137 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 23:31:37:3137 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 23:31:42:3142 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:31:42:3142 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:31:42:3142 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:31:42:3142 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:31:42:3142 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:31:42:3142 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:31:42:3142 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:31:42:3142 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:42:3142 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:45:3145 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:31:45:3145 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:31:45:3145 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:31:45:3145 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:31:45:3145 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:31:45:3145 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:31:45:3145 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:31:45:3145 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:45:3145 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:47:3147 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:31:47:3147 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:31:47:3147 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:31:47:3147 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:31:47:3147 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:31:47:3147 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:31:47:3147 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:31:47:3147 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:47:3147 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:50:3150 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:31:50:3150 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:31:50:3150 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:31:50:3150 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:31:50:3150 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:31:50:3150 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:31:50:3150 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:31:50:3150 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:50:3150 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:52:3152 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:31:52:3152 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:31:52:3152 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:31:52:3152 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:31:52:3152 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:31:52:3152 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:31:52:3152 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:31:52:3152 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:52:3152 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:55:3155 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:31:55:3155 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:31:55:3155 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:31:55:3155 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:31:55:3155 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:31:55:3155 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:31:55:3155 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:31:55:3155 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:31:55:3155 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:32:37:3237 [32minfo[39m: [32mSubscribed to topic: transaction-events[39m
+2026-01-18 23:32:37:3237 [32minfo[39m: [32m✅ Transaction Consumer started successfully[39m
+2026-01-18 23:32:37:3237 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-18 23:32:37:3237 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-18 23:32:37:3237 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-18 23:59:56:5956 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-18 23:59:56:5956 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-18 23:59:56:5956 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-18 23:59:56:5956 [32minfo[39m: [32mRedis client ready[39m
+2026-01-18 23:59:56:5956 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-18 23:59:56:5956 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-18 23:59:56:5956 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-18 23:59:56:5956 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-18 23:59:56:5956 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:00:02:02 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:00:02:02 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:00:02:02 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:00:02:02 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:00:02:02 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:00:02:02 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:00:02:02 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:00:02:02 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:00:02:02 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:00:20:020 [32minfo[39m: [32mSubscribed to topic: transaction-events[39m
+2026-01-19 00:00:20:020 [32minfo[39m: [32m✅ Transaction Consumer started successfully[39m
+2026-01-19 00:00:20:020 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-19 00:00:20:020 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-19 00:00:20:020 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-19 00:00:40:040 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:00:41:041 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:00:41:041 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:00:41:041 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:00:41:041 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:00:41:041 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:00:41:041 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:00:41:041 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:00:41:041 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:00:46:046 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:00:46:046 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:00:46:046 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:00:46:046 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:00:46:046 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:00:46:046 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:00:46:046 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:00:46:046 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:00:46:046 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:00:58:058 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:00:58:058 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:00:58:058 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:00:58:058 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:00:58:058 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:00:58:058 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:00:58:058 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:00:58:058 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:00:58:058 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:01:04:14 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:01:04:14 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:01:04:14 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:01:04:14 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:01:04:14 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:01:04:14 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:01:04:14 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:01:04:14 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:01:04:14 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:01:05:15 [32minfo[39m: [32mSubscribed to topic: transaction-events[39m
+2026-01-19 00:01:05:15 [32minfo[39m: [32m✅ Transaction Consumer started successfully[39m
+2026-01-19 00:01:05:15 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-19 00:01:05:15 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-19 00:01:05:15 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-19 00:01:10:110 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:01:10:110 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:01:10:110 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:01:10:110 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:01:10:110 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:01:10:110 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:01:10:110 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:01:10:110 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:01:10:110 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:01:19:119 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:01:19:119 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:01:19:119 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:01:19:119 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:01:19:119 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:01:19:119 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:01:19:119 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:01:19:119 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:01:19:119 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:01:29:129 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:01:30:130 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:01:30:130 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:01:30:130 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:01:30:130 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:01:30:130 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:01:30:130 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:01:30:130 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:01:30:130 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:01:36:136 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:01:36:136 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:01:36:136 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:01:36:136 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:01:36:136 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:01:36:136 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:01:36:136 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:01:36:136 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:01:36:136 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:01:45:145 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:01:45:145 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:01:45:145 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:01:45:145 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:01:45:145 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:01:45:145 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:01:45:145 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:01:45:145 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:01:45:145 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:01:51:151 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:01:51:151 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:01:51:151 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:01:51:151 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:01:51:151 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:01:51:151 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:01:51:151 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:01:51:151 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:01:51:151 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:01:53:153 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:01:54:154 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:01:54:154 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:01:54:154 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:01:54:154 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:01:54:154 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:01:54:154 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:01:54:154 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:01:54:154 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:02:01:21 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:02:01:21 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:02:01:21 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:02:01:21 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:02:01:21 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:02:01:21 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:02:01:21 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:02:01:21 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:02:01:21 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:02:11:211 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:02:11:211 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:02:11:211 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:02:11:211 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:02:11:211 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:02:11:211 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:02:11:211 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:02:11:211 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:02:11:211 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:02:19:219 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:02:19:219 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:02:19:219 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:02:19:219 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:02:19:219 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:02:19:219 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:02:19:219 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:02:19:219 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:02:19:219 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:02:27:227 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:02:27:227 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:02:27:227 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:02:27:227 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:02:27:227 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:02:27:227 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:02:27:227 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:02:27:227 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:02:27:227 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:02:35:235 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:02:35:235 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:02:35:235 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:02:35:235 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:02:35:235 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:02:35:235 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:02:35:235 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:02:35:235 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:02:35:235 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:03:11:311 [32minfo[39m: [32mSubscribed to topic: transaction-events[39m
+2026-01-19 00:03:11:311 [32minfo[39m: [32m✅ Transaction Consumer started successfully[39m
+2026-01-19 00:03:11:311 [32minfo[39m: [32m🚀 Swift Transfer API server running on port 3000[39m
+2026-01-19 00:03:11:311 [32minfo[39m: [32m📊 Health check available at http://localhost:3000/health[39m
+2026-01-19 00:03:11:311 [32minfo[39m: [32m🌍 Environment: development[39m
+2026-01-19 00:11:39:1139 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:11:39:1139 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:11:39:1139 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:11:39:1139 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:11:39:1139 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:11:39:1139 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:11:39:1139 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:11:39:1139 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:11:39:1139 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:11:42:1142 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:11:42:1142 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:11:42:1142 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:11:42:1142 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:11:42:1142 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:11:42:1142 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:11:42:1142 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:11:42:1142 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:11:42:1142 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:11:45:1145 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:11:45:1145 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:11:45:1145 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:11:45:1145 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:11:45:1145 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:11:45:1145 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:11:45:1145 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:11:45:1145 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:11:45:1145 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:11:49:1149 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:11:49:1149 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:11:49:1149 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:11:49:1149 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:11:49:1149 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:11:49:1149 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:11:49:1149 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:11:49:1149 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:11:49:1149 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:11:51:1151 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:11:51:1151 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:11:51:1151 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:11:51:1151 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:11:51:1151 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:11:51:1151 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:11:51:1151 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:11:51:1151 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:11:51:1151 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:11:53:1153 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:11:53:1153 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:11:53:1153 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:11:53:1153 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:11:53:1153 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:11:53:1153 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:11:53:1153 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:11:53:1153 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:11:53:1153 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:11:56:1156 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:11:56:1156 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:11:56:1156 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:11:56:1156 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:11:56:1156 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:11:56:1156 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:11:56:1156 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:11:56:1156 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:11:56:1156 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:01:121 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:12:01:121 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:12:01:121 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:12:01:121 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:12:01:121 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:12:01:121 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:12:01:121 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:12:01:121 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:01:121 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:06:126 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:12:06:126 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:12:06:126 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:12:06:126 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:12:06:126 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:12:06:126 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:12:06:126 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:12:06:126 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:06:126 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:10:1210 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:12:10:1210 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:12:10:1210 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:12:10:1210 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:12:10:1210 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:12:10:1210 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:12:10:1210 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:12:10:1210 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:10:1210 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:14:1214 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:12:14:1214 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:12:14:1214 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:12:14:1214 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:12:14:1214 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:12:14:1214 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:12:14:1214 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:12:14:1214 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:14:1214 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:19:1219 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:12:19:1219 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:12:19:1219 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:12:19:1219 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:12:19:1219 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:12:19:1219 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:12:19:1219 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:12:19:1219 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:19:1219 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:22:1222 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:12:22:1222 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:12:22:1222 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:12:22:1222 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:12:22:1222 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:12:22:1222 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:12:22:1222 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:12:22:1222 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:22:1222 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:24:1224 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:12:24:1224 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:12:24:1224 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:12:24:1224 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:12:24:1224 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:12:24:1224 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:12:24:1224 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:12:24:1224 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:24:1224 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:28:1228 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:12:28:1228 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:12:28:1228 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:12:28:1228 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:12:28:1228 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:12:28:1228 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:12:28:1228 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:12:28:1228 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:28:1228 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:33:1233 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:12:34:1234 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:12:34:1234 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:12:34:1234 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:12:34:1234 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:12:34:1234 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:12:34:1234 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:12:34:1234 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:34:1234 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:39:1239 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:12:39:1239 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:12:39:1239 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:12:39:1239 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:12:39:1239 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:12:39:1239 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:12:39:1239 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:12:39:1239 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:39:1239 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:43:1243 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:12:43:1243 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:12:43:1243 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:12:43:1243 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:12:43:1243 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:12:43:1243 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:12:43:1243 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:12:43:1243 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:43:1243 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:47:1247 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:12:47:1247 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:12:47:1247 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:12:47:1247 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:12:47:1247 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:12:47:1247 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:12:47:1247 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:12:47:1247 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:47:1247 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:51:1251 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:12:51:1251 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:12:51:1251 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:12:51:1251 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:12:51:1251 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:12:51:1251 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:12:51:1251 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:12:51:1251 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:51:1251 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:53:1253 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:12:53:1253 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:12:53:1253 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:12:53:1253 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:12:53:1253 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:12:53:1253 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:12:53:1253 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:12:53:1253 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:53:1253 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:56:1256 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:12:56:1256 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:12:56:1256 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:12:56:1256 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:12:56:1256 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:12:56:1256 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:12:56:1256 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:12:56:1256 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:12:56:1256 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:00:130 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:13:00:130 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:13:00:130 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:13:00:130 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:13:00:130 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:13:00:130 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:13:00:130 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:13:00:130 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:00:130 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:05:135 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:13:05:135 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:13:05:135 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:13:05:135 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:13:05:135 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:13:05:135 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:13:05:135 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:13:05:135 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:05:135 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:07:137 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:13:07:137 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:13:07:137 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:13:07:137 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:13:07:137 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:13:07:137 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:13:07:137 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:13:07:137 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:07:137 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:09:139 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:13:10:1310 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:13:10:1310 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:13:10:1310 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:13:10:1310 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:13:10:1310 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:13:10:1310 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:13:10:1310 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:10:1310 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:20:1320 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:13:20:1320 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:13:20:1320 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:13:20:1320 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:13:20:1320 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:13:20:1320 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:13:20:1320 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:13:20:1320 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:20:1320 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:24:1324 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:13:24:1324 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:13:24:1324 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:13:24:1324 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:13:24:1324 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:13:24:1324 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:13:24:1324 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:13:24:1324 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:24:1324 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:29:1329 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:13:29:1329 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:13:29:1329 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:13:29:1329 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:13:29:1329 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:13:29:1329 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:13:29:1329 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:13:29:1329 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:29:1329 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:32:1332 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:13:32:1332 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:13:32:1332 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:13:32:1332 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:13:32:1332 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:13:32:1332 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:13:32:1332 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:13:32:1332 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:32:1332 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:35:1335 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:13:35:1335 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:13:35:1335 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:13:35:1335 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:13:35:1335 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:13:35:1335 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:13:35:1335 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:13:35:1335 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:35:1335 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:37:1337 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:13:37:1337 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:13:37:1337 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:13:37:1337 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:13:37:1337 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:13:37:1337 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:13:37:1337 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:13:37:1337 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:37:1337 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:39:1339 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:13:39:1339 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:13:39:1339 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:13:39:1339 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:13:39:1339 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:13:39:1339 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:13:39:1339 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:13:39:1339 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:39:1339 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:42:1342 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:13:42:1342 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:13:42:1342 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:13:42:1342 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:13:42:1342 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:13:42:1342 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:13:42:1342 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:13:42:1342 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:42:1342 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:47:1347 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:13:47:1347 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:13:47:1347 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:13:47:1347 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:13:47:1347 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:13:47:1347 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:13:47:1347 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:13:47:1347 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:47:1347 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:49:1349 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:13:50:1350 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:13:50:1350 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:13:50:1350 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:13:50:1350 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:13:50:1350 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:13:50:1350 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:13:50:1350 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:50:1350 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:54:1354 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:13:54:1354 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:13:54:1354 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:13:54:1354 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:13:54:1354 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:13:54:1354 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:13:54:1354 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:13:54:1354 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:54:1354 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:58:1358 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:13:58:1358 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:13:58:1358 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:13:58:1358 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:13:58:1358 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:13:58:1358 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:13:58:1358 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:13:58:1358 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:13:58:1358 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:14:01:141 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:14:01:141 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:14:01:141 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:14:01:141 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:14:01:141 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:14:01:141 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:14:01:141 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:14:01:141 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:14:01:141 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:14:03:143 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:14:04:144 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:14:04:144 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:14:04:144 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:14:04:144 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:14:04:144 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:14:04:144 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:14:04:144 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:14:04:144 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:14:06:146 [32minfo[39m: [32m🚀 Starting Swift Transfer API server...[39m
+2026-01-19 00:14:06:146 [32minfo[39m: [32mMS SQL Database connected successfully via Prisma[39m
+2026-01-19 00:14:06:146 [32minfo[39m: [32mConnected to Redis[39m
+2026-01-19 00:14:06:146 [32minfo[39m: [32mRedis client ready[39m
+2026-01-19 00:14:06:146 [32minfo[39m: [32mKafka client initialized[39m
+2026-01-19 00:14:06:146 [32minfo[39m: [32mKafka producer connected[39m
+2026-01-19 00:14:06:146 [32minfo[39m: [32m🚀 Starting Transaction Consumer...[39m
+2026-01-19 00:14:06:146 [32minfo[39m: [32mKafka consumer connected[39m
+2026-01-19 00:14:06:146 [32minfo[39m: [32mKafka consumer connected[39m

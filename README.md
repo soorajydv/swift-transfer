@@ -61,6 +61,12 @@ cd frontend && yarn dev
 
 # In another terminal, start backend locally
 cd backend && yarn dev
+
+# If not working, Try
+docker-compose down
+docker volume rm swift-transfer_kafka_data
+docker-compose up -d
+cd backend && yarn dev
 ```
 
 **URLs:**
@@ -249,6 +255,55 @@ The project uses different environment files for different scenarios:
 - `.env.docker` - Docker development (container service names)
 - `.env.prod` - Production environment
 
+### Environment Variables
+
+The project requires the following environment variables. Copy `.env.example` to `.env` and configure appropriately:
+
+```bash
+# Server Configuration
+NODE_ENV=development
+PORT=3000
+
+# Database Configuration
+DATABASE_URL="sqlserver://localhost:1433;database=swift_transfer;user=sa;password=YourStrongPassword123!;trustServerCertificate=true"
+
+# Redis Configuration
+REDIS_HOST=localhost
+REDIS_PORT=6379
+REDIS_PASSWORD=
+
+# Kafka Configuration
+KAFKA_BROKERS=localhost:9092
+KAFKA_CLIENT_ID=swift-transfer-backend
+
+# JWT Configuration
+JWT_SECRET=your-super-secret-jwt-key-change-this-in-production-32-chars-minimum
+JWT_REFRESH_SECRET=your-super-secret-refresh-key-change-this-in-production-32-chars-minimum
+JWT_EXPIRES_IN=15m
+JWT_REFRESH_EXPIRES_IN=7d
+
+# OTP Configuration
+OTP_EXPIRY_SECONDS=300
+OTP_RATE_LIMIT_MAX=5
+OTP_RATE_LIMIT_WINDOW=60000
+
+# CORS Configuration
+CORS_ORIGIN=http://localhost:8080
+
+# Logging
+LOG_LEVEL=info
+
+# Forex Configuration
+EXCHANGE_RATE_JPY_TO_NPR=0.92
+
+# Email Configuration (Optional)
+EMAIL_HOST=smtp.gmail.com
+EMAIL_PORT=587
+EMAIL_SECURE=false
+EMAIL_USER=your-email@gmail.com
+EMAIL_PASS=your-app-password
+```
+
 ### Key Environment Variables
 
 **Database:**
@@ -266,7 +321,8 @@ The project uses different environment files for different scenarios:
 
 **JWT:**
 
-- `JWT_SECRET` - JWT signing secret (change in production!)
+- `JWT_SECRET` - JWT signing secret (32+ characters, change in production!)
+- `JWT_REFRESH_SECRET` - JWT refresh token secret (32+ characters)
 
 ## 🗄️ Database Setup
 

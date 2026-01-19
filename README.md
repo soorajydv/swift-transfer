@@ -1,6 +1,40 @@
 # Swift Transfer - Money Transfer System
 
-A full-stack money transfer system built with Node.js, Express, React, MS SQL Server, Redis, and Kafka.
+A full-stack money transfer system built with **Node.js**, **Express**, **React**, **TypeScript**, **MS SQL Server**, **Redis**, and **Kafka**. Enables secure money transfers from Japan (JPY) to Nepal (NPR) with real-time exchange rates, transaction tracking, and comprehensive user management.
+
+## ✨ Features
+
+### 💰 Money Transfer
+- **Cross-border transfers** from Japan to Nepal
+- **Real-time exchange rates** with automatic calculations
+- **Multi-tier service fees** based on transfer amount
+- **Transaction tracking** with unique IDs and status updates
+- **Secure payment processing** with validation
+
+### 👥 User Management
+- **Role-based access control** (Admin, User, Viewer)
+- **JWT authentication** with secure session management
+- **User profiles** with activity tracking
+- **Admin panel** for user and system management
+
+### 📋 Sender & Receiver Management
+- **Sender profiles** with identity verification
+- **Receiver management** linked to senders
+- **Bank account details** for Nepali recipients
+- **Relationship tracking** (family, friends, business)
+
+### 📊 Dashboard & Analytics
+- **Transaction statistics** and volume tracking
+- **Real-time metrics** and performance indicators
+- **Export capabilities** for reporting
+- **Comprehensive filtering** and search
+
+### 🔧 Technical Features
+- **Server-side pagination** for large datasets
+- **Advanced filtering** across all entities
+- **Kafka messaging**
+- **Docker containerization** for easy deployment
+- **Comprehensive API** with OpenAPI documentation
 
 ## 🚀 Quick Start
 
@@ -164,18 +198,37 @@ If you prefer running everything locally without Docker:
 
 ```
 swift-transfer/
-├── backend/                    # Node.js/Express API
+├── backend/                    # Node.js/Express API (TypeScript)
 │   ├── src/
 │   │   ├── config/            # Database, Redis, Kafka configs
-│   │   ├── modules/           # Feature modules (auth, user, etc.)
-│   │   ├── middleware/        # Express middleware
-│   │   ├── utils/             # Utilities and helpers
+│   │   ├── modules/           # Feature modules:
+│   │   │   ├── auth/          # Authentication & JWT
+│   │   │   ├── user/          # User management
+│   │   │   ├── senders/       # Sender profiles & management
+│   │   │   ├── receivers/     # Receiver profiles & management
+│   │   │   ├── transactions/  # Money transfer transactions
+│   │   │   ├── dashboard/     # Analytics & statistics
+│   │   │   └── monitoring/    # Health checks & metrics
+│   │   ├── middleware/        # Express middleware (auth, validation, error handling)
+│   │   ├── routes/            # API route definitions
+│   │   ├── utils/             # Utilities (fees, forex, helpers, logger)
+│   │   ├── types/             # TypeScript type definitions
 │   │   └── server.ts          # Server entry point
-│   ├── prisma/                # Database schema and migrations
+│   ├── prisma/                # Database schema, migrations, seed data
 │   ├── Dockerfile             # Backend container config
 │   └── docker-compose.yml     # Backend services (legacy)
-├── frontend/                  # React/Vite frontend
+├── frontend/                  # React/TypeScript/Vite frontend
 │   ├── src/
+│   │   ├── components/        # Reusable UI components
+│   │   ├── contexts/          # React contexts (Auth, Error)
+│   │   ├── hooks/             # Custom React hooks
+│   │   ├── lib/               # Utilities & configurations
+│   │   ├── modules/           # Feature modules (matching backend)
+│   │   ├── pages/             # Page components
+│   │   ├── services/          # API service functions
+│   │   ├── shared/            # Shared components & utilities
+│   │   ├── types/             # TypeScript definitions
+│   │   └── utils/             # Helper functions
 │   ├── Dockerfile             # Frontend container config
 │   └── nginx.conf             # Nginx config for production
 ├── docker-compose.yml         # Development services (DB, Redis, Kafka)
@@ -346,15 +399,3 @@ docker-compose -f docker-compose.prod.yml down -v
 # Rebuild from scratch
 docker-compose build --no-cache
 ```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test with Docker setup
-5. Submit a pull request
-
-## 📝 License
-
-MIT License - see LICENSE file for details

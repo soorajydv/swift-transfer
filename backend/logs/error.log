@@ -1,3 +1,59 @@
 2026-01-18 20:29:44:2944 [31merror[39m: [31mError occurred: body.fullName: Required[39m
 2026-01-18 20:30:00:300 [31merror[39m: [31mError occurred: body.role: Role must be admin, operator, or viewer[39m
 2026-01-18 22:42:50:4250 [31merror[39m: [31mUncaught Exception: listen EADDRINUSE: address already in use :::3000[39m
+2026-01-19 20:05:59:559 [31merror[39m: [31mError occurred: params.id: Sender ID must be a valid UUID[39m
+2026-01-19 20:06:26:626 [31merror[39m: [31mError occurred: params.id: Sender ID must be a valid UUID[39m
+2026-01-19 20:08:35:835 [31merror[39m: [31mUncaught Exception: listen EADDRINUSE: address already in use :::3000[39m
+2026-01-19 20:09:29:929 [31merror[39m: [31mError occurred: params.id: Sender ID must be a valid UUID[39m
+2026-01-19 20:10:34:1034 [31merror[39m: [31mError occurred: params.id: Sender ID must be a valid UUID[39m
+2026-01-19 20:20:18:2018 [31merror[39m: [31mError occurred: body.role: Role must be admin, operator, or viewer[39m
+2026-01-19 20:30:52:3052 [31merror[39m: [31mError occurred: body.role: Role must be admin, operator, or viewer[39m
+2026-01-19 20:36:41:3641 [31merror[39m: [31mError occurred: body.role: Role must be admin, operator, or viewer[39m
+2026-01-19 21:15:37:1537 [31merror[39m: [31mError occurred: params.id: Transaction ID must be a valid UUID[39m
+2026-01-19 21:37:51:3751 [31merror[39m: [31mError occurred: body.senderId: Sender ID must be a valid UUID[39m
+2026-01-19 21:38:08:388 [31merror[39m: [31mError occurred: body.senderId: Sender ID must be a valid UUID[39m
+2026-01-19 21:39:02:392 [31merror[39m: [31mError occurred: body.senderId: Sender ID must be a valid UUID[39m
+2026-01-19 22:58:50:5850 [31merror[39m: [31mUnhandled Rejection at:[39m
+2026-01-19 23:14:46:1446 [31merror[39m: [31mError occurred: body.identityNumber: Identity number must be at least 5 characters[39m
+2026-01-19 23:14:52:1452 [31merror[39m: [31mError occurred: body.identityNumber: Identity number must be at least 5 characters[39m
+2026-01-19 23:15:55:1555 [31merror[39m: [31mError occurred: body.identityNumber: Identity number must be at least 5 characters[39m
+2026-01-19 23:19:03:193 [31merror[39m: [31mError occurred: body.identityNumber: Identity number must be at least 5 characters[39m
+2026-01-19 23:21:13:2113 [31merror[39m: [31mError occurred: body.identityNumber: Identity number must be at least 5 characters[39m
+2026-01-19 23:23:07:237 [31merror[39m: [31mError occurred: body.identityNumber: Identity number must be at least 5 characters[39m
+2026-01-19 23:47:46:4746 [31merror[39m: [31mError occurred: body.accountNumber: Account number must be at least 8 characters[39m
+2026-01-19 23:47:49:4749 [31merror[39m: [31mError occurred: body.accountNumber: Account number must be at least 8 characters[39m
+2026-01-19 23:47:50:4750 [31merror[39m: [31mError occurred: body.accountNumber: Account number must be at least 8 characters[39m
+2026-01-19 23:47:50:4750 [31merror[39m: [31mError occurred: body.accountNumber: Account number must be at least 8 characters[39m
+2026-01-19 23:47:50:4750 [31merror[39m: [31mError occurred: body.accountNumber: Account number must be at least 8 characters[39m
+2026-01-19 23:47:50:4750 [31merror[39m: [31mError occurred: body.accountNumber: Account number must be at least 8 characters[39m
+2026-01-19 23:47:51:4751 [31merror[39m: [31mError occurred: body.accountNumber: Account number must be at least 8 characters[39m
+2026-01-19 23:47:51:4751 [31merror[39m: [31mError occurred: body.accountNumber: Account number must be at least 8 characters[39m
+2026-01-19 23:47:54:4754 [31merror[39m: [31mError occurred: body.accountNumber: Account number must be at least 8 characters[39m
+2026-01-19 23:48:06:486 [31merror[39m: [31mError occurred: body.accountNumber: Account number must be at least 8 characters[39m
+2026-01-19 23:49:54:4954 [31merror[39m: [31mError occurred: body.accountNumber: Account number must be at least 8 characters[39m
+2026-01-19 23:50:58:5058 [31merror[39m: [31mError occurred: body.accountNumber: Account number must be at least 8 characters[39m
+2026-01-19 23:51:23:5123 [31merror[39m: [31mError occurred: body.accountNumber: Account number must be at least 8 characters[39m
+2026-01-19 23:58:28:5828 [31merror[39m: [31mUnhandled Rejection at:[39m
+2026-01-20 00:02:07:27 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:02:07:27 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:02:07:27 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:02:07:27 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:02:07:27 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:02:07:27 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:02:07:27 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:02:07:27 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:02:07:27 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:02:07:27 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:03:05:35 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:03:05:35 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:03:05:35 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:03:05:35 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:03:05:35 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:03:05:35 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:03:05:35 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:03:05:35 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:03:05:35 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:03:05:35 [31merror[39m: [31mError occurred: body.phone: Phone number cannot exceed 15 characters[39m
+2026-01-20 00:06:49:649 [31merror[39m: [31mError occurred: body.identityNumber: Identity number must be at least 5 characters[39m
+2026-01-20 00:13:14:1314 [31merror[39m: [31mError occurred: body.identityNumber: Identity number must be at least 5 characters[39m
+2026-01-20 00:37:17:3717 [31merror[39m: [31mError occurred: body.amountJPY: Amount cannot exceed 10,000,000 JPY[39m

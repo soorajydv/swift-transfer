@@ -49,7 +49,7 @@ export const createSenderSchema = z.object({
 export const updateSenderSchema = z.object({
   params: z.object({
     id: z.string()
-      .uuid('Sender ID must be a valid UUID')
+
       .min(1, 'Sender ID is required'),
   }),
   body: z.object({
@@ -144,7 +144,7 @@ export const getSendersSchema = z.object({
 export const senderIdSchema = z.object({
   params: z.object({
     id: z.string()
-      .uuid('Sender ID must be a valid UUID')
+
       .min(1, 'Sender ID is required'),
   }),
 });
@@ -153,7 +153,7 @@ export const senderIdSchema = z.object({
 export const deactivateSenderSchema = z.object({
   params: z.object({
     id: z.string()
-      .uuid('Sender ID must be a valid UUID')
+
       .min(1, 'Sender ID is required'),
   }),
 });

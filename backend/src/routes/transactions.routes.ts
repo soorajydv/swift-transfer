@@ -29,14 +29,12 @@ router.get('/:id',
 );
 
 router.patch('/:id/status',
-  validateRequest(transactionIdSchema),
   authorize('ADMIN'),
   validateRequest(updateTransactionStatusSchema),
   TransactionsController.updateTransactionStatus
 );
 
 router.patch('/:id/cancel',
-  validateRequest(transactionIdSchema),
   authorize('ADMIN'),
   validateRequest(cancelTransactionSchema),
   TransactionsController.cancelTransaction

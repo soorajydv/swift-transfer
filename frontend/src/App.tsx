@@ -1,23 +1,22 @@
-import { Toaster } from "@/components/ui/toaster";
-import { Toaster as Sonner } from "@/components/ui/sonner";
-import { TooltipProvider } from "@/components/ui/tooltip";
+import { Toaster } from "./shared/components/toaster";
+import NotFound from "./shared/components/NotFound";
+import LoginPage from "./modules/auth/pages/LoginPage";
+import UsersPage from "./modules/users/pages/UsersPage";
+import { TooltipProvider } from "@radix-ui/react-tooltip";
+import { AppLayout } from "./shared/components/AppLayout";
+import { AuthProvider } from "./shared/contexts/AuthContext";
+import SendersPage from "./modules/senders/pages/SendersPage";
+import UserFormPage from "./modules/users/pages/UserFormPage";
+import { ErrorProvider } from "./shared/contexts/ErrorContext";
+import DashboardPage from "./modules/dashboard/pages/DashboardPage";
+import ReceiversPage from "./modules/receivers/pages/ReceiversPage";
+import SendMoneyPage from "./modules/transactions/pages/SendMoneyPage";
+import MonitoringPage from "./modules/monitoring/pages/MonitoringPage";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
-import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
-import { AuthProvider, useAuth } from "@/contexts/AuthContext";
-import { ErrorProvider } from "@/contexts/ErrorContext";
-import { AppLayout } from "@/components/layout/AppLayout";
-import { LoadingScreen } from "@/components/common/LoadingSpinner";
-import LoginPage from "@/pages/LoginPage";
-import DashboardPage from "@/pages/DashboardPage";
-import UsersPage from "@/pages/UsersPage";
-import SendersPage from "@/pages/SendersPage";
-import SenderFormPage from "@/pages/SenderFormPage";
-import ReceiversPage from "@/pages/ReceiversPage";
-import ReceiverFormPage from "@/pages/ReceiverFormPage";
-import SendMoneyPage from "@/pages/SendMoneyPage";
-import TransactionsPage from "@/pages/TransactionsPage";
-import MonitoringPage from "@/pages/MonitoringPage";
-import NotFound from "@/pages/NotFound";
+import ReceiverFormPage from "./modules/receivers/pages/ReceiverFormPage";
+import { Navigate, Routes, Route, BrowserRouter } from "react-router-dom";
+import TransactionsPage from "./modules/transactions/pages/TransactionsPage";
+import { PublicRoute, ProtectedRoute } from "./shared/components/routing";
 
 const queryClient = new QueryClient({
   defaultOptions: {
@@ -28,65 +27,17 @@ const queryClient = new QueryClient({
   },
 });
 
-function ProtectedRoute({ children }: { children: React.ReactNode }) {
-  const { isAuthenticated, isLoading } = useAuth();
-
-  if (isLoading) {
-    return <LoadingScreen />;
-  }
-
-  if (!isAuthenticated) {
-    return <Navigate to="/login" replace />;
-  }
-
-  return <>{children}</>;
-}
-
-function PublicRoute({ children }: { children: React.ReactNode }) {
-  const { isAuthenticated, isLoading } = useAuth();
-
-  console.log('🔒 PublicRoute check:', { isAuthenticated, isLoading });
-
-  if (isLoading) {
-    return <LoadingScreen />;
-  }
-
-  if (isAuthenticated) {
-    console.log('🚫 Authenticated user trying to access login, redirecting to dashboard');
-    return <Navigate to="/dashboard" replace />;
-  }
-
-  return <>{children}</>;
-}
-
 function AppRoutes() {
   return (
     <Routes>
-      {/* Public Routes */}
-      <Route
-        path="/login"
-        element={
-          <PublicRoute>
-            <LoginPage />
-          </PublicRoute>
-        }
-      />
-
-      {/* Protected Routes */}
-      <Route
-        path="/"
-        element={
-          <ProtectedRoute>
-            <AppLayout />
-          </ProtectedRoute>
-        }
-      >
+      <Route path="/login" element={<PublicRoute><LoginPage /></PublicRoute>} />
+      <Route path="/" element={<ProtectedRoute><AppLayout /></ProtectedRoute>}>
         <Route index element={<Navigate to="/dashboard" replace />} />
         <Route path="dashboard" element={<DashboardPage />} />
         <Route path="users" element={<UsersPage />} />
+        <Route path="users/new" element={<UserFormPage />} />
+        <Route path="users/:id/edit" element={<UserFormPage />} />
         <Route path="senders" element={<SendersPage />} />
-        <Route path="senders/new" element={<SenderFormPage />} />
-        <Route path="senders/:id/edit" element={<SenderFormPage />} />
         <Route path="receivers" element={<ReceiversPage />} />
         <Route path="receivers/new" element={<ReceiverFormPage />} />
         <Route path="receivers/:id/edit" element={<ReceiverFormPage />} />
@@ -94,8 +45,6 @@ function AppRoutes() {
         <Route path="transactions" element={<TransactionsPage />} />
         <Route path="monitoring" element={<MonitoringPage />} />
       </Route>
-
-      {/* Fallback */}
       <Route path="*" element={<NotFound />} />
     </Routes>
   );
@@ -106,7 +55,6 @@ const App = () => (
     <ErrorProvider>
       <TooltipProvider>
         <Toaster />
-        <Sonner />
         <BrowserRouter>
           <AuthProvider>
             <AppRoutes />

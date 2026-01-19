@@ -12,6 +12,7 @@ model User {
   id        String   @id @default(uuid()) @map("id")
   email     String   @unique @map("email")
   fullName  String   @map("full_name")
+  phone     String?  @map("phone")
   password  String?  @map("password")
   role      String   @default("VIEWER") @map("role")
   status    String   @default("ACTIVE") @map("status")

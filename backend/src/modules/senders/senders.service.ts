@@ -5,7 +5,7 @@ import { generateId } from '../../utils/helpers';
 export class SendersService {
   static async createSender(data: ICreateSenderData): Promise<ServiceResult<ISenderData>> {
     try {
-      // Check if user exists
+      // Check if creator exists
       const user = await prisma.user.findUnique({
         where: { id: data.userId }
       });
@@ -13,8 +13,8 @@ export class SendersService {
       if (!user) {
         return {
           success: false,
-          message: 'User not found',
-          error: 'User not found',
+          message: 'Creator not found',
+          error: 'Creator not found',
           statusCode: 404
         };
       }
@@ -62,6 +62,7 @@ export class SendersService {
     limit?: number | undefined;
     search?: string | undefined;
     status?: string | undefined;
+    city?: string | undefined;
   }): Promise<ServiceResult<{ items: ISenderData[]; total: number; page: number; limit: number }>> {
     try {
       const page = filters?.page || 1;
@@ -74,11 +75,15 @@ export class SendersService {
         where.status = filters.status;
       }
 
+      if (filters?.city) {
+        where.city = filters.city;
+      }
+
       if (filters?.search) {
         where.OR = [
-          { fullName: { contains: filters.search, mode: 'insensitive' } },
-          { email: { contains: filters.search, mode: 'insensitive' } },
-          { phone: { contains: filters.search, mode: 'insensitive' } }
+          { fullName: { contains: filters.search } },
+          { email: { contains: filters.search } },
+          { phone: { contains: filters.search } } // Phone numbers are usually exact match
         ];
       }
 
@@ -89,7 +94,11 @@ export class SendersService {
           take: limit,
           orderBy: { createdAt: 'desc' }
         }),
-        prisma.sender.count({ where })
+        // Use findMany to count since count() doesn't support mode parameter
+        prisma.sender.findMany({
+          where,
+          select: { id: true }
+        }).then(results => results.length)
       ]);
 
       return {

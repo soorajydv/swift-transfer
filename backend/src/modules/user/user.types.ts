@@ -15,6 +15,7 @@ export interface IUser {
 export interface ICreateUserData {
   email: string;
   fullName: string;
+  phone?: string;
   role: 'admin' | 'operator' | 'viewer';
   status?: 'active' | 'inactive';
 }
@@ -22,6 +23,7 @@ export interface ICreateUserData {
 export interface IUpdateUserData {
   email?: string;
   fullName?: string;
+  phone?: string;
   role?: 'admin' | 'operator' | 'viewer';
   status?: 'active' | 'inactive';
 }

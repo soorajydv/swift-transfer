@@ -5,7 +5,7 @@ import logger from '../utils/logger';
 export class TransactionConsumer {
   static async start(): Promise<void> {
     try {
-      logger.info('🚀 Starting Transaction Consumer...');
+      logger.info('Starting Transaction Consumer...');
 
       await subscribeToTopic(
         'transaction-events',
@@ -13,9 +13,9 @@ export class TransactionConsumer {
         'transaction-consumer-group'
       );
 
-      logger.info('✅ Transaction Consumer started successfully');
+      logger.info('Transaction Consumer started successfully');
     } catch (error) {
-      logger.error('❌ Failed to start Transaction Consumer:', error);
+      logger.error('Failed to start Transaction Consumer:', error);
       throw error;
     }
   }
@@ -24,7 +24,7 @@ export class TransactionConsumer {
     try {
       const { event, ...data } = message.value;
 
-      logger.info(`📨 Processing transaction event: ${event}`, { transactionId: data.transactionId });
+      logger.info(`Processing transaction event: ${event}`, { transactionId: data.transactionId });
 
       switch (event) {
         case 'TRANSACTION_CREATED':
@@ -40,12 +40,12 @@ export class TransactionConsumer {
           break;
 
         default:
-          logger.warn(`⚠️ Unknown transaction event type: ${event}`);
+          logger.warn(`Unknown transaction event type: ${event}`);
       }
 
-      logger.info(`✅ Successfully processed transaction event: ${event}`, { transactionId: data.transactionId });
+      logger.info(`Successfully processed transaction event: ${event}`, { transactionId: data.transactionId });
     } catch (error) {
-      logger.error('❌ Error processing transaction event:', error);
+      logger.error('Error processing transaction event:', error);
       throw error; // Re-throw to mark message as failed
     }
   }
@@ -58,7 +58,7 @@ export class TransactionConsumer {
     // - Triggering external integrations
     // - Logging audit trails
 
-    logger.info('💰 Transaction created event processed', {
+    logger.info('Transaction created event processed', {
       transactionId: data.transactionId,
       amountJPY: data.amountJPY,
       amountNPR: data.amountNPR,
@@ -71,7 +71,7 @@ export class TransactionConsumer {
   }
 
   private static async handleTransactionUpdated(data: any): Promise<void> {
-    logger.info('🔄 Transaction updated event processed', {
+    logger.info('Transaction updated event processed', {
       transactionId: data.transactionId,
       newStatus: data.status,
       updatedBy: data.updatedBy
@@ -81,7 +81,7 @@ export class TransactionConsumer {
   }
 
   private static async handleTransactionCancelled(data: any): Promise<void> {
-    logger.info('❌ Transaction cancelled event processed', {
+    logger.info('Transaction cancelled event processed', {
       transactionId: data.transactionId,
       reason: data.cancelledReason,
       cancelledBy: data.cancelledBy

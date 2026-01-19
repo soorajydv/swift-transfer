@@ -1,6 +1,8 @@
 import prisma from '../../config/prisma';
+import bcrypt from 'bcryptjs';
 import { ICreateUserData, IUpdateUserData, ServiceResult } from './user.types';
 import { paginatePrisma } from '../../utils/pagination';
+import { sendUserCredentialsEmail } from '../../utils/email';
 
 export class UserService {
   static async createUser(data: ICreateUserData, createdBy?: string): Promise<ServiceResult> {
@@ -13,9 +15,15 @@ export class UserService {
         return { success: false, message: 'Email already exists', statusCode: 409 };
       }
 
+      // Generate a secure random password
+      const generatedPassword = Math.random().toString(36).slice(-12) + Math.random().toString(36).slice(-12);
+      const hashedPassword = await bcrypt.hash(generatedPassword, 12);
+
       const userData: any = {
         email: data.email,
         fullName: data.fullName,
+        phone: data.phone,
+        password: hashedPassword,
         role: data.role?.toUpperCase() || 'VIEWER',
         status: data.status?.toUpperCase() || 'ACTIVE',
       };
@@ -28,6 +36,14 @@ export class UserService {
       const user = await prisma.user.create({
         data: userData
       });
+
+      // Send email with credentials (don't block user creation if email fails)
+      try {
+        await sendUserCredentialsEmail(user.email, user.fullName, generatedPassword);
+      } catch (emailError) {
+        console.error('Failed to send credentials email:', emailError);
+        // Don't fail the user creation if email fails
+      }
 
       return { success: true, message: 'User created successfully', data: user };
     } catch (error) {
@@ -53,6 +69,7 @@ export class UserService {
           id: user.id,
           email: user.email,
           fullName: user.fullName,
+          phone: user.phone || undefined,
           role: user.role,
           status: user.status,
           createdAt: user.createdAt,
@@ -89,6 +106,7 @@ export class UserService {
       const updateData: any = {};
       if (data.email !== undefined) updateData.email = data.email;
       if (data.fullName !== undefined) updateData.fullName = data.fullName;
+      if (data.phone !== undefined) updateData.phone = data.phone;
       if (data.role !== undefined) updateData.role = data.role.toUpperCase();
       if (data.status !== undefined) updateData.status = data.status.toUpperCase();
       if (updatedBy !== undefined) updateData.updatedBy = updatedBy;
@@ -105,6 +123,7 @@ export class UserService {
           id: updatedUser.id,
           email: updatedUser.email,
           fullName: updatedUser.fullName,
+          phone: updatedUser.phone || undefined,
           role: updatedUser.role,
           status: updatedUser.status,
           createdAt: updatedUser.createdAt,
@@ -178,6 +197,7 @@ export class UserService {
             id: user.id,
             email: user.email,
             fullName: user.fullName,
+            phone: user.phone || undefined,
             role: user.role,
             status: user.status,
             createdAt: user.createdAt,

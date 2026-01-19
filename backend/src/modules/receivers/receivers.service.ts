@@ -64,6 +64,8 @@ export class ReceiversService {
     search?: string | undefined;
     status?: string | undefined;
     senderId?: string | undefined;
+    bank?: string | undefined;
+    city?: string | undefined;
   }): Promise<ServiceResult<{ items: IReceiverData[]; total: number; page: number; limit: number }>> {
     try {
       const page = filters?.page || 1;
@@ -80,12 +82,22 @@ export class ReceiversService {
         where.senderId = filters.senderId;
       }
 
+      if (filters?.bank) {
+        where.bankName = filters.bank;
+      }
+
+      if (filters?.city) {
+        where.city = filters.city;
+      }
+
       if (filters?.search) {
         where.OR = [
-          { fullName: { contains: filters.search, mode: 'insensitive' } },
-          { email: { contains: filters.search, mode: 'insensitive' } },
-          { phone: { contains: filters.search, mode: 'insensitive' } },
-          { bankName: { contains: filters.search, mode: 'insensitive' } }
+          { fullName: { contains: filters.search } },
+          { email: { contains: filters.search } },
+          { phone: { contains: filters.search } },
+          { bankName: { contains: filters.search } },
+          { city: { contains: filters.search } },
+          { relationship: { contains: filters.search } }
         ];
       }
 
@@ -96,7 +108,11 @@ export class ReceiversService {
           take: limit,
           orderBy: { createdAt: 'desc' }
         }),
-        prisma.receiver.count({ where })
+        // Use findMany to count since count() doesn't support mode parameter
+        prisma.receiver.findMany({
+          where,
+          select: { id: true }
+        }).then(results => results.length)
       ]);
 
       return {

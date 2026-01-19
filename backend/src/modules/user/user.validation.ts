@@ -10,10 +10,10 @@ export const createUserSchema = z.object({
       .min(1, 'Full name is required')
       .max(100, 'Full name cannot exceed 100 characters')
       .trim(),
-    role: z.enum(['admin', 'operator', 'viewer'], {
-      errorMap: () => ({ message: 'Role must be admin, operator, or viewer' }),
+    role: z.enum(['ADMIN', 'OPERATOR', 'VIEWER'], {
+      errorMap: () => ({ message: 'Role must be ADMIN, OPERATOR, or VIEWER' }),
     }),
-    status: z.enum(['active', 'inactive']).optional().default('active'),
+    status: z.enum(['ACTIVE', 'INACTIVE']).optional().default('ACTIVE'),
   }),
 });
 
@@ -32,10 +32,15 @@ export const updateUserSchema = z.object({
       .max(100, 'Full name cannot exceed 100 characters')
       .trim()
       .optional(),
-    role: z.enum(['admin', 'operator', 'viewer'], {
-      errorMap: () => ({ message: 'Role must be admin, operator, or viewer' }),
+    phone: z.string()
+      .min(10, 'Phone number must be at least 10 characters')
+      .max(15, 'Phone number cannot exceed 15 characters')
+      .trim()
+      .optional(),
+    role: z.enum(['ADMIN', 'OPERATOR', 'VIEWER'], {
+      errorMap: () => ({ message: 'Role must be ADMIN, OPERATOR, or VIEWER' }),
     }).optional(),
-    status: z.enum(['active', 'inactive']).optional(),
+    status: z.enum(['ACTIVE', 'INACTIVE']).optional(),
   }),
 });
 
@@ -50,8 +55,8 @@ export const listUsersSchema = z.object({
     page: z.string().optional().transform(val => val ? parseInt(val) : 1),
     limit: z.string().optional().transform(val => val ? parseInt(val) : 10),
     search: z.string().optional(),
-    role: z.enum(['admin', 'operator', 'viewer']).optional(),
-    status: z.enum(['active', 'inactive']).optional(),
+    role: z.enum(['ADMIN', 'OPERATOR', 'VIEWER']).optional(),
+    status: z.enum(['ACTIVE', 'INACTIVE']).optional(),
     sortBy: z.string().optional(),
     sortOrder: z.enum(['asc', 'desc']).optional().default('desc'),
   }),

@@ -4,8 +4,8 @@ export interface IUser {
   id: string;
   email: string;
   fullName: string;
-  role: 'admin' | 'operator' | 'viewer';
-  status: 'active' | 'inactive';
+  role: 'ADMIN' | 'OPERATOR' | 'VIEWER';
+  status: 'ACTIVE' | 'INACTIVE';
   createdAt?: Date;
   updatedAt?: Date;
   createdBy?: string;
@@ -15,15 +15,15 @@ export interface IUser {
 export interface ICreateUserData {
   email: string;
   fullName: string;
-  role: 'admin' | 'operator' | 'viewer';
-  status?: 'active' | 'inactive';
+  role: 'ADMIN' | 'OPERATOR' | 'VIEWER';
+  status?: 'ACTIVE' | 'INACTIVE';
 }
 
 export interface IUpdateUserData {
   email?: string;
   fullName?: string;
-  role?: 'admin' | 'operator' | 'viewer';
-  status?: 'active' | 'inactive';
+  role?: 'ADMIN' | 'OPERATOR' | 'VIEWER';
+  status?: 'ACTIVE' | 'INACTIVE';
 }
 
 // OTP interfaces

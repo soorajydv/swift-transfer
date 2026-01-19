@@ -56,7 +56,6 @@ export class TransactionsService {
       const calculation = calculateTransferSummary(data.amountJPY);
 
       const transactionData: any = {
-        id: generateId('TXN'),
         transactionId: generateTransactionId(),
         userId,
         senderId: data.senderId,
@@ -204,10 +203,10 @@ export class TransactionsService {
     }
   }
 
-  static async updateTransactionStatus(id: string, data: IUpdateTransactionData, updatedBy?: string): Promise<ServiceResult<ITransactionData>> {
+  static async updateTransactionStatus(transactionId: string, data: IUpdateTransactionData, updatedBy?: string): Promise<ServiceResult<ITransactionData>> {
     try {
       const transaction = await prisma.transaction.findUnique({
-        where: { id }
+        where: { id: transactionId }
       });
 
       if (!transaction) {
@@ -234,7 +233,7 @@ export class TransactionsService {
       }
 
       const updatedTransaction = await prisma.transaction.update({
-        where: { id },
+        where: { id: transactionId },
         data: updateData
       });
 
@@ -254,8 +253,8 @@ export class TransactionsService {
     }
   }
 
-  static async cancelTransaction(id: string, reason?: string, cancelledBy?: string): Promise<ServiceResult<ITransactionData>> {
-    return this.updateTransactionStatus(id, {
+  static async cancelTransaction(transactionId: string, reason?: string, cancelledBy?: string): Promise<ServiceResult<ITransactionData>> {
+    return this.updateTransactionStatus(transactionId, {
       status: 'cancelled',
       cancelledReason: reason,
       cancelledAt: new Date()

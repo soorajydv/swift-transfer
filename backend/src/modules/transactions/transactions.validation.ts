@@ -4,11 +4,9 @@ import { z } from 'zod';
 export const createTransactionSchema = z.object({
   body: z.object({
     senderId: z.string()
-      .uuid('Sender ID must be a valid UUID')
       .min(1, 'Sender ID is required'),
 
     receiverId: z.string()
-      .uuid('Receiver ID must be a valid UUID')
       .min(1, 'Receiver ID is required'),
 
     amountJPY: z.number()
@@ -30,6 +28,10 @@ export const createTransactionSchema = z.object({
 
 // Transaction status update validation
 export const updateTransactionStatusSchema = z.object({
+  params: z.object({
+    id: z.string()
+      .min(1, 'Transaction ID is required'),
+  }),
   body: z.object({
     status: z.enum(['pending', 'processing', 'completed', 'failed', 'cancelled'], {
       errorMap: () => ({ message: 'Invalid transaction status' }),
@@ -81,14 +83,10 @@ export const getTransactionsSchema = z.object({
         message: 'End date must be a valid date'
       }),
 
-    senderId: z.string()
-      .uuid('Sender ID must be a valid UUID')
-      .optional(),
+    senderId: z.string().optional(),
 
-    receiverId: z.string()
-      .uuid('Receiver ID must be a valid UUID')
-      .optional(),
-
+    receiverId: z.string().optional(),
+    
     status: z.enum(['pending', 'processing', 'completed', 'failed', 'cancelled'])
       .optional(),
 
@@ -129,7 +127,6 @@ export const getTransactionStatsSchema = z.object({
 export const transactionIdSchema = z.object({
   params: z.object({
     id: z.string()
-      .uuid('Transaction ID must be a valid UUID')
       .min(1, 'Transaction ID is required'),
   }),
 });

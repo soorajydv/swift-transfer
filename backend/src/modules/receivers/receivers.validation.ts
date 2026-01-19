@@ -4,7 +4,6 @@ import { z } from 'zod';
 export const createReceiverSchema = z.object({
   body: z.object({
     senderId: z.string()
-      .uuid('Sender ID must be a valid UUID')
       .min(1, 'Sender ID is required'),
 
     fullName: z.string()
@@ -65,7 +64,6 @@ export const createReceiverSchema = z.object({
 export const updateReceiverSchema = z.object({
   params: z.object({
     id: z.string()
-      .uuid('Receiver ID must be a valid UUID')
       .min(1, 'Receiver ID is required'),
   }),
   body: z.object({
@@ -159,7 +157,6 @@ export const getReceiversSchema = z.object({
       .optional(),
 
     senderId: z.string()
-      .uuid('Sender ID must be a valid UUID')
       .optional(),
 
     status: z.enum(['active', 'inactive'])
@@ -179,7 +176,6 @@ export const getReceiversSchema = z.object({
 export const receiverIdSchema = z.object({
   params: z.object({
     id: z.string()
-      .uuid('Receiver ID must be a valid UUID')
       .min(1, 'Receiver ID is required'),
   }),
 });
@@ -188,7 +184,6 @@ export const receiverIdSchema = z.object({
 export const deactivateReceiverSchema = z.object({
   params: z.object({
     id: z.string()
-      .uuid('Receiver ID must be a valid UUID')
       .min(1, 'Receiver ID is required'),
   }),
 });
@@ -197,7 +192,6 @@ export const deactivateReceiverSchema = z.object({
 export const getReceiversBySenderSchema = z.object({
   params: z.object({
     senderId: z.string()
-      .uuid('Sender ID must be a valid UUID')
       .min(1, 'Sender ID is required'),
   }),
   query: z.object({

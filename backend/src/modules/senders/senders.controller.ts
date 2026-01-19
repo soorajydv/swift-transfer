@@ -6,12 +6,14 @@ import asyncHandler from '../../utils/asyncHandler';
 
 export class SendersController {
   static createSender = asyncHandler(async (req: AuthenticatedRequest, res: Response) => {
-    const result = await SendersService.createSender(req.body);
-
-    if (!result.success) {
-      return response.error(res, result.message, result.statusCode);
-    }
-
+    const senderData = {
+      ...req.body,
+      createdBy: req.userId,
+      status: req.user?.role === 'ADMIN' ? 'ACTIVE' : 'PENDING_VERIFICATION',
+      userId: req.userId,
+    };
+    const result = await SendersService.createSender(senderData);
+    if (!result.success) return response.error(res, result.message, result.statusCode);
     return response.success(res, result.message, result.data);
   });
 
@@ -24,66 +26,39 @@ export class SendersController {
       status: status ? status as string : undefined,
     });
 
-    if (!result.success) {
-      return response.error(res, result.message, result.statusCode);
-    }
-
+    if (!result.success) return response.error(res, result.message, result.statusCode);
     return response.success(res, result.message, result.data);
   });
 
   static getSenderById = asyncHandler(async (req: AuthenticatedRequest, res: Response) => {
     const { id } = req.params;
-    if (!id) {
-      return response.error(res, 'Sender ID is required', 400);
-    }
+    if (!id) return response.error(res, 'Sender ID is required', 400);
     const result = await SendersService.getSenderById(id);
-
-    if (!result.success) {
-      return response.error(res, result.message, result.statusCode);
-    }
-
+    if (!result.success) return response.error(res, result.message, result.statusCode);
     return response.success(res, result.message, result.data);
   });
 
   static updateSender = asyncHandler(async (req: AuthenticatedRequest, res: Response) => {
     const { id } = req.params;
-    if (!id) {
-      return response.error(res, 'Sender ID is required', 400);
-    }
+    if (!id) return response.error(res, 'Sender ID is required', 400);
     const result = await SendersService.updateSender(id, req.body, req.userId);
-
-    if (!result.success) {
-      return response.error(res, result.message, result.statusCode);
-    }
-
+    if (!result.success) return response.error(res, result.message, result.statusCode);
     return response.success(res, result.message, result.data);
   });
 
   static deactivateSender = asyncHandler(async (req: AuthenticatedRequest, res: Response) => {
     const { id } = req.params;
-    if (!id) {
-      return response.error(res, 'Sender ID is required', 400);
-    }
+    if (!id) return response.error(res, 'Sender ID is required', 400);
     const result = await SendersService.deactivateSender(id, req.userId);
-
-    if (!result.success) {
-      return response.error(res, result.message, result.statusCode);
-    }
-
+    if (!result.success) return response.error(res, result.message, result.statusCode);
     return response.success(res, result.message, result.data);
   });
 
   static deleteSender = asyncHandler(async (req: AuthenticatedRequest, res: Response) => {
     const { id } = req.params;
-    if (!id) {
-      return response.error(res, 'Sender ID is required', 400);
-    }
+    if (!id) return response.error(res, 'Sender ID is required', 400);
     const result = await SendersService.deleteSender(id);
-
-    if (!result.success) {
-      return response.error(res, result.message, result.statusCode);
-    }
-
+    if (!result.success) return response.error(res, result.message, result.statusCode);
     return response.success(res, result.message);
   });
 }

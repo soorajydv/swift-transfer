@@ -85,11 +85,8 @@ export class TransactionsController {
 
   static updateTransactionStatus = asyncHandler(async (req: AuthenticatedRequest, res: Response) => {
     const { id } = req.params;
-    if (!id) {
-      return response.error(res, 'Transaction ID is required', 400);
-    }
 
-    const result = await TransactionsService.updateTransactionStatus(id, req.body, req.userId);
+    const result = await TransactionsService.updateTransactionStatus(id!, req.body, req.userId);
 
     if (!result.success) {
       return response.error(res, result.message, result.statusCode);
